@@ -2,7 +2,7 @@
 
 Emulador de Franklin ACE 1000 para Olimex RP2350pc.
 
-Más información en [Minibots](https://minibots.wordpress.com/2026/05/22/emulador-de-franklin-ace-1000-con-olimex-rp2350pc/)
+Más información en [Minibots](https://minibots.wordpress.com/2026/05/21/emulador-de-franklin-ace-1000-con-olimex-rp2350pc/)
 
 ### Build
 
