@@ -1,0 +1,27 @@
+# Ignorar carpeta de build local
+build/
+build-rp2350/
+
+# Archivos de compilación temporales
+*.o
+*.d
+*.elf
+*.uf2
+*.bin
+
+# Archivos generados por CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# Archivos de depuración temporales
+*.lst
+*.map
+*.log
+
+# Archivos del editor / sistema
+*.swp
+*~
+.DS_Store
